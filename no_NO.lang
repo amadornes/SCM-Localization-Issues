@@ -1,4 +1,4 @@
-itemGroup.rscircuits=Super Krets Lager
+itemGroup.rscircuits=Super Circuit Maker
 item.rscircuits:circuit.name=Rødstein Krets
 item.rscircuits:resource.pile_of_redstone.name=Liten Bunke med Rødsteinspulver
 item.rscircuits:resource.quartz_resonator.name=Kvarts Resonator
