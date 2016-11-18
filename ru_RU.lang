@@ -33,7 +33,7 @@ item.rscircuits:punchcard.name=Перфокарта [WIP]
 item.rscircuits:multimeter.name=Мультиметр
 item.rscircuits:squeegee.name=Скребок
 tile.rscircuits:update_detector.name=Детектор обновления блока
-key.rscircuits.monocle=Переключить увелечение монокля
+key.rscircuits.monocle=Переключить увеличение монокля
 
 color.white=Белый
 color.orange=Оранжевый
